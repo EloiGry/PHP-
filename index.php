@@ -9,10 +9,13 @@
   </head>
 
   <body>
-  <h1 class="text-3xl font-bold underline m-2">
+    <?php
+     include 'header.php';
+    ?>
+  <h1 class="text-3xl font-bold underline pt-8">
     Hello world!
   </h1>
   </body>
-  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- <script src="https://cdn.tailwindcss.com"></script> -->
 
 </html>
